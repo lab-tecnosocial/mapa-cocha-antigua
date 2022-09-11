@@ -1,1632 +1,1795 @@
 [
  {
    "cantidad": 10,
+   "encargado": "Vale",
    "lugar": "plaza de las banderas",
    "coord": "-17.382240652719158, -66.15975195417461",
    "coordArray": [-17.382240652719158, -66.15975195417461],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "10_plazabanderas.jpeg",
+   "nombreFinal": "10_plazabanderas.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/10_plazabanderas.jpeg"
  },
  {
    "cantidad": 11,
+   "encargado": "Vale",
    "lugar": "estacion",
    "coord": "-17.403353515837853, -66.15394766725753",
    "coordArray": [-17.403353515837853, -66.15394766725753],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "12_estacion.jpeg",
+   "nombreFinal": "12_estacion.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/12_estacion.jpeg"
  },
  {
    "cantidad": 13,
+   "encargado": "Vale",
    "lugar": "esteban arze y calama",
    "coord": "-17.396026126274265, -66.15602701586394",
    "coordArray": [-17.396026126274265, -66.15602701586394],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "14_estebanar.jpeg",
+   "nombreFinal": "14_estebanar.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/14_estebanar.jpeg"
  },
  {
    "cantidad": 14,
+   "encargado": "Vale",
    "lugar": "mercado la pampa",
    "coord": "-17.40321232471876, -66.15334085749456",
    "coordArray": [-17.40321232471876, -66.15334085749456],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "15_lapampa.jpeg",
+   "nombreFinal": "15_lapampa.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/15_lapampa.jpeg"
  },
  {
    "cantidad": 16,
+   "encargado": "Vale",
    "lugar": "plaza",
    "coord": "-17.393483520312316, -66.15743173204342",
    "coordArray": [-17.393483520312316, -66.15743173204342],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "17_plaza.jpeg",
+   "nombreFinal": "17_plaza.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/17_plaza.jpeg"
  },
  {
    "cantidad": 17,
+   "encargado": "Vale",
    "lugar": "avion lloyd",
    "coord": "-17.415257303210712, -66.18123012034282",
    "coordArray": [-17.415257303210712, -66.18123012034282],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "18_lloyd.jpeg",
+   "nombreFinal": "18_lloyd.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/18_lloyd.jpeg"
  },
  {
    "cantidad": 59,
+   "encargado": "Abi",
    "lugar": "alameda",
    "coord": "-17.385874, -66.157242",
    "coordArray": [-17.385874, -66.157242],
    "anio": 1842,
    "periodo": "1825-1899",
-   "archivo": "1842 - Alameda Revolución.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1842 - Alameda Revolución.jpg"
+   "nombreFinal": "1842 - Alameda Revolucion.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1842 - Alameda Revolucion.png"
  },
  {
    "cantidad": 56,
+   "encargado": "Abi",
    "lugar": "plaza san sebastian",
    "coord": "-17.398355, -66.159624",
    "coordArray": [-17.398355, -66.159624],
    "anio": 1880,
    "periodo": "1825-1899",
-   "archivo": "1880 - Plaza San Sebastian.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1880 - Plaza San Sebastian.jpg"
+   "nombreFinal": "1880 - Plaza San Sebastian.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1880 - Plaza San Sebastian.png"
  },
  {
    "cantidad": 55,
+   "encargado": "Abi",
    "lugar": "Arbol de los Amantes libertador y america",
    "coord": "-17.37243403759314, -66.16270171248429",
    "coordArray": [-17.37243403759314, -66.16270171248429],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Arbol de los Amantes camino a Cala Cala.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Arbol de los Amantes camino a Cala Cala.jpg"
+   "nombreFinal": "1890 - Arbol de los Amantes camino a Cala Cala.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Arbol de los Amantes camino a Cala Cala.png"
  },
  {
    "cantidad": 54,
+   "encargado": "Abi",
    "lugar": "calle Santa Teresa (Baptista)",
    "coord": "-17.388822, -66.158482",
    "coordArray": [-17.388822, -66.158482],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Calle Santa Teresa (Baptista).jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Calle Santa Teresa (Baptista).jpg"
+   "nombreFinal": "1890 - Calle Santa Teresa (Baptista).png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Calle Santa Teresa (Baptista).png"
  },
  {
    "cantidad": 53,
+   "encargado": "Abi",
    "lugar": "catedral",
    "coord": "-17.393821, -66.156716",
    "coordArray": [-17.393821, -66.156716],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Catedral 2.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Catedral 2.jpg"
+   "nombreFinal": "1890 - Catedral 2.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Catedral 2.png"
  },
  {
    "cantidad": 52,
+   "encargado": "Abi",
    "lugar": "catedral",
    "coord": "-17.394333, -66.156630",
    "coordArray": [-17.394333, -66.156630],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Catedral.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Catedral.jpg"
+   "nombreFinal": "1890 - Catedral.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Catedral.png"
  },
  {
    "cantidad": 51,
+   "encargado": "Abi",
    "lugar": "concejo Municipal Ex Iglesia de los Agustinos",
    "coord": "-17.393207, -66.156673",
    "coordArray": [-17.393207, -66.156673],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Concejo Municipal Ex Iglesia de los Agustinos.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Concejo Municipal Ex Iglesia de los Agustinos.jpg"
+   "nombreFinal": "1890 - Concejo Municipal Ex Iglesia de los Agustinos.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Concejo Municipal Ex Iglesia de los Agustinos.png"
  },
  {
    "cantidad": 50,
+   "encargado": "Abi",
    "lugar": "La Caracota (Mercado Calatayud)",
    "coord": "-17.398463, -66.152849",
    "coordArray": [-17.398463, -66.152849],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - La Caracota (Mercado Calatayud).jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - La Caracota (Mercado Calatayud).jpg"
+   "nombreFinal": "1890 - La Caracota (Mercado Calatayud).png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - La Caracota (Mercado Calatayud).png"
  },
  {
    "cantidad": 48,
+   "encargado": "Abi",
    "lugar": "Plaza Principal",
    "coord": "-17.393638, -66.156902",
    "coordArray": [-17.393638, -66.156902],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Plaza Principal.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Plaza Principal.jpg"
+   "nombreFinal": "1890 - Plaza Principal.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Plaza Principal.png"
  },
  {
    "cantidad": 47,
+   "encargado": "Abi",
    "lugar": "Vista de la ciudad y cementerio",
    "coord": "-17.409452, -66.160019",
    "coordArray": [-17.409452, -66.160019],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 - Vista de la ciudad y cementerio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Vista de la ciudad y cementerio.jpg"
+   "nombreFinal": "1890 - Vista de la ciudad y cementerio.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 - Vista de la ciudad y cementerio.png"
  },
  {
    "cantidad": 46,
+   "encargado": "Abi",
    "lugar": "Columna de los Héroes y Cóndor",
    "coord": "-17.393806, -66.157037",
    "coordArray": [-17.393806, -66.157037],
    "anio": 1890,
    "periodo": "1825-1899",
-   "archivo": "1890 Columna de los Héroes y Cóndor.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 Columna de los Héroes y Cóndor.jpg"
+   "nombreFinal": "1890 Columna de los Heroes y Condor.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1890 Columna de los Heroes y Condor.png"
  },
  {
    "cantidad": 18,
+   "encargado": "Vale",
    "lugar": "laguna cuellar",
    "coord": "-17.37913391645553, -66.16361046547708",
    "coordArray": [-17.37913391645553, -66.16361046547708],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "19_cuellar.jpeg",
+   "nombreFinal": "19_cuellar.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/19_cuellar.jpeg"
  },
  {
    "cantidad": 45,
+   "encargado": "Abi",
    "lugar": "Arbol de los Amantes libertador y america",
    "coord": "-17.372482, -66.162675",
    "coordArray": [-17.372482, -66.162675],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "1900 - Arbol de los Amantes Av Libertador Bolivar y Av. America.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Arbol de los Amantes Av Libertador Bolivar y Av. America.jpg"
+   "nombreFinal": "1900 - Arbol de los Amantes Av Libertador Bolivar y Av America.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Arbol de los Amantes Av Libertador Bolivar y Av America.png"
  },
  {
    "cantidad": 44,
+   "encargado": "Abi",
    "lugar": "Compania de Jesus",
    "coord": "-17.393374, -66.157677",
    "coordArray": [-17.393374, -66.157677],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "1900 - Esquina de la Compania de Jesus.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Esquina de la Compania de Jesus.jpg"
+   "nombreFinal": "1900 - Esquina de la Compania de Jesus.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Esquina de la Compania de Jesus.png"
  },
  {
    "cantidad": 43,
+   "encargado": "Abi",
    "lugar": "Fiesta de San Sebastian",
    "coord": "-17.398269, -66.159590",
    "coordArray": [-17.398269, -66.159590],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "1900 - Fiesta de San Sebastian.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Fiesta de San Sebastian.jpg"
+   "nombreFinal": "1900 - Fiesta de San Sebastian.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Fiesta de San Sebastian.png"
  },
  {
    "cantidad": 42,
+   "encargado": "Abi",
    "lugar": "Plaza San Sebastian",
    "coord": "-17.399016, -66.159783",
    "coordArray": [-17.399016, -66.159783],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "1900 - Plaza San Sebastian.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Plaza San Sebastian.jpg"
+   "nombreFinal": "1900 - Plaza San Sebastian.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Plaza San Sebastian.png"
  },
  {
    "cantidad": 41,
+   "encargado": "Abi",
    "lugar": "Rio Rocha",
    "coord": "-17.380546, -66.156597",
    "coordArray": [-17.380546, -66.156597],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "1900 - Rio Rocha.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Rio Rocha.jpg"
+   "nombreFinal": "1900 - Rio Rocha.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1900 - Rio Rocha.png"
  },
  {
    "cantidad": 78,
+   "encargado": "Abi",
    "lugar": "Prado y Av. Ramon Rivero",
    "coord": "-17.382237523154902, -66.15925489545425",
    "coordArray": [-17.382237523154902, -66.15925489545425],
    "anio": 1918,
    "periodo": "1900-1949",
-   "archivo": "1918 - Prado y Av. Ramon Rivero.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1918 - Prado y Av. Ramon Rivero.jpg"
+   "nombreFinal": "1918 - Prado y Av Ramon Rivero.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1918 - Prado y Av Ramon Rivero.png"
  },
  {
    "cantidad": 77,
+   "encargado": "Abi",
    "lugar": "Monumento Heroinas",
    "coord": "-17.40332553899141, -66.16034843627965",
    "coordArray": [-17.40332553899141, -66.16034843627965],
    "anio": 1926,
    "periodo": "1900-1949",
-   "archivo": "1926 - Inauguración Monumento Heroinas.jpg",
+   "nombreFinal": "1926 - Inauguración Monumento Heroinas.jpg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/1926 - Inauguración Monumento Heroinas.jpg"
  },
  {
    "cantidad": 76,
+   "encargado": "Abi",
    "lugar": "Rio Rocha",
    "coord": "-17.38288766363228, -66.16249615487703",
    "coordArray": [-17.38288766363228, -66.16249615487703],
    "anio": 1932,
    "periodo": "1900-1949",
-   "archivo": "1932 - Rio Rocha.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1932 - Rio Rocha.jpg"
+   "nombreFinal": "1932 - Rio Rocha.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1932 - Rio Rocha.png"
  },
  {
    "cantidad": 70,
+   "encargado": "Abi",
    "lugar": "Plaza Cordova Puente Cala Cala",
    "coord": "-17.380852744639917, -66.16021989770333",
    "coordArray": [-17.380852744639917, -66.16021989770333],
    "anio": 1950,
    "periodo": "1950-1980",
-   "archivo": "1950 - Plaza Cordova Puente Cala Cala.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1950 - Plaza Cordova Puente Cala Cala.jpg"
+   "nombreFinal": "1950 - Plaza Cordova Puente Cala Cala.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1950 - Plaza Cordova Puente Cala Cala.png"
  },
  {
    "cantidad": 71,
+   "encargado": "Abi",
    "lugar": "Av. Aniceto Arce",
    "coord": "-17.389772709785714, -66.15024349548787",
    "coordArray": [-17.389772709785714, -66.15024349548787],
    "anio": 1956,
    "periodo": "1950-1980",
-   "archivo": "1956 - Av. Aniceto Arce.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1956 - Av. Aniceto Arce.jpg"
+   "nombreFinal": "1956 - Av Aniceto Arce.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1956 - Av Aniceto Arce.png"
  },
  {
    "cantidad": 72,
+   "encargado": "Abi",
    "lugar": "Plaza Colon",
    "coord": "-17.388116675365197, -66.15570131505245",
    "coordArray": [-17.388116675365197, -66.15570131505245],
    "anio": 1956,
    "periodo": "1950-1980",
-   "archivo": "1956 - Plaza Colon.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1956 - Plaza Colon.jpg"
+   "nombreFinal": "1956 - Plaza Colon.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1956 - Plaza Colon.png"
  },
  {
    "cantidad": 73,
+   "encargado": "Abi",
    "lugar": "El Prado",
    "coord": "-17.38353716499995, -66.15892655453258",
    "coordArray": [-17.38353716499995, -66.15892655453258],
    "anio": 1960,
    "periodo": "1950-1980",
-   "archivo": "1960 - El Prado.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - El Prado.jpg"
+   "nombreFinal": "1960 - El Prado.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - El Prado.png"
  },
  {
    "cantidad": 74,
+   "encargado": "Abi",
    "lugar": "Hospital Maternologico",
    "coord": "-17.3866109277574, -66.14849301406022",
    "coordArray": [-17.3866109277574, -66.14849301406022],
    "anio": 1960,
    "periodo": "1950-1980",
-   "archivo": "1960 - Hospital Maternologico.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - Hospital Maternologico.jpg"
+   "nombreFinal": "1960 - Hospital Maternologico.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - Hospital Maternologico.png"
  },
  {
    "cantidad": 75,
+   "encargado": "Abi",
    "lugar": "Laguna Alalay",
    "coord": "-17.40242453636402, -66.14164658782244",
    "coordArray": [-17.40242453636402, -66.14164658782244],
    "anio": 1960,
    "periodo": "1950-1980",
-   "archivo": "1960 - Laguna Alalay.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - Laguna Alalay.jpg"
+   "nombreFinal": "1960 - Laguna Alalay.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1960 - Laguna Alalay.png"
  },
  {
    "cantidad": 60,
+   "encargado": "Abi",
    "lugar": "Vista aérea de la refinería",
    "coord": "-17.453775398978376, -66.12269977851108",
    "coordArray": [-17.453775398978376, -66.12269977851108],
    "anio": 1961,
    "periodo": "1950-1980",
-   "archivo": "1961 - Vista aérea de la refinería1961.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1961 - Vista aérea de la refinería1961.jpg"
+   "nombreFinal": "1961 - Vista aerea de la refineria.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1961 - Vista aerea de la refineria.png"
  },
  {
    "cantidad": 61,
+   "encargado": "Abi",
    "lugar": "Terminal",
    "coord": "-17.403188251085517, -66.15869783526416",
    "coordArray": [-17.403188251085517, -66.15869783526416],
    "anio": 1979,
    "periodo": "1950-1980",
-   "archivo": "1979 - Terminal.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1979 - Terminal.jpg"
+   "nombreFinal": "1979 - Terminal.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/1979 - Terminal.png"
  },
  {
    "cantidad": 2,
+   "encargado": "Vale",
    "lugar": "coronilla",
    "coord": "-17.40148699963032, -66.15987413887962",
    "coordArray": [-17.40148699963032, -66.15987413887962],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "2_vista_coronilla.jpeg",
+   "nombreFinal": "2_vista_coronilla.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/2_vista_coronilla.jpeg"
  },
  {
    "cantidad": 19,
+   "encargado": "Vale",
    "lugar": "calle nataniel aguirre",
    "coord": "-17.39757316425519, -66.1566519551642",
    "coordArray": [-17.39757316425519, -66.1566519551642],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "21_natanielaguirre.jpeg",
+   "nombreFinal": "21_natanielaguirre.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/21_natanielaguirre.jpeg"
  },
  {
    "cantidad": 20,
+   "encargado": "Vale",
    "lugar": "tranvia cruzando el riorocha",
    "coord": "-17.381303521980346, -66.15964188079941",
    "coordArray": [-17.381303521980346, -66.15964188079941],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "22_tranviarocha.jpeg",
+   "nombreFinal": "22_tranviarocha.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/22_tranviarocha.jpeg"
  },
  {
    "cantidad": 21,
+   "encargado": "Vale",
    "lugar": "corrida de toros",
    "coord": "-17.398946499441845, -66.15993968854218",
    "coordArray": [-17.398946499441845, -66.15993968854218],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "23_corridatoros.jpeg",
+   "nombreFinal": "23_corridatoros.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/23_corridatoros.jpeg"
  },
  {
    "cantidad": 22,
+   "encargado": "Vale",
    "lugar": "sanmartin colombia",
    "coord": "-17.390685532825614, -66.15461514537024",
    "coordArray": [-17.390685532825614, -66.15461514537024],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "24_sanmartincolombia.jpeg",
+   "nombreFinal": "24_sanmartincolombia.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/24_sanmartincolombia.jpeg"
  },
  {
    "cantidad": 23,
+   "encargado": "Vale",
    "lugar": "linea 3v",
    "coord": "-17.354616220303242, -66.18752440388403",
    "coordArray": [-17.354616220303242, -66.18752440388403],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "25_3v.jpeg",
+   "nombreFinal": "25_3v.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/25_3v.jpeg"
  },
  {
    "cantidad": 24,
+   "encargado": "Vale",
    "lugar": "mercado calatayud",
    "coord": "-17.39846640897692, -66.15330757611876",
    "coordArray": [-17.39846640897692, -66.15330757611876],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "26_calatayud.jpeg",
+   "nombreFinal": "26_calatayud.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/26_calatayud.jpeg"
  },
  {
    "cantidad": 25,
+   "encargado": "Vale",
    "lugar": "alameda",
    "coord": "-17.38765162974111, -66.15584439500776",
    "coordArray": [-17.38765162974111, -66.15584439500776],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "27_portadaalameda.jpeg",
+   "nombreFinal": "27_portadaalameda.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/27_portadaalameda.jpeg"
  },
  {
    "cantidad": 26,
+   "encargado": "Vale",
    "lugar": "san sebastian",
    "coord": "-17.399014759296495, -66.1597440476722",
    "coordArray": [-17.399014759296495, -66.1597440476722],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "28_sansebastian.jpeg",
+   "nombreFinal": "28_sansebastian.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/28_sansebastian.jpeg"
  },
  {
    "cantidad": 27,
+   "encargado": "Vale",
    "lugar": "cancha",
    "coord": "-17.404927091877244, -66.15523408970833",
    "coordArray": [-17.404927091877244, -66.15523408970833],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "29_elgallo.jpeg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/29_elgallo.jpeg"
+   "nombreFinal": "",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/"
  },
  {
    "cantidad": 3,
+   "encargado": "Vale",
    "lugar": "cancha",
    "coord": "-17.40263486381082, -66.15330283314837",
    "coordArray": [-17.40263486381082, -66.15330283314837],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "3_bicis.jpeg",
+   "nombreFinal": "3_bicis.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/3_bicis.jpeg"
  },
  {
    "cantidad": 28,
+   "encargado": "Vale",
    "lugar": "templo san francisco",
    "coord": "-17.392751307729146, -66.15540597169624",
    "coordArray": [-17.392751307729146, -66.15540597169624],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "30_sanfrancisco.jpeg",
+   "nombreFinal": "30_sanfrancisco.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/30_sanfrancisco.jpeg"
  },
  {
    "cantidad": 29,
+   "encargado": "Vale",
    "lugar": "calle sucre",
    "coord": "-17.394085099393767, -66.1553880320351",
    "coordArray": [-17.394085099393767, -66.1553880320351],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "31_sucre.jpeg",
+   "nombreFinal": "31_sucre.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/31_sucre.jpeg"
  },
  {
    "cantidad": 30,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.390250704780954, -66.15817063697733",
    "coordArray": [-17.390250704780954, -66.15817063697733],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "32_santateresa.jpeg",
+   "nombreFinal": "32_santateresa.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/32_santateresa.jpeg"
  },
  {
    "cantidad": 31,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.392110937881718, -66.14807712101228",
    "coordArray": [-17.392110937881718, -66.14807712101228],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "33_plazasucre.jpeg",
+   "nombreFinal": "33_plazasucre.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/33_plazasucre.jpeg"
  },
  {
    "cantidad": 32,
+   "encargado": "Vale",
    "lugar": "catedral",
    "coord": "-17.394286221986572, -66.15687682961705",
    "coordArray": [-17.394286221986572, -66.15687682961705],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "38_catedral.jpeg",
+   "nombreFinal": "38_catedral.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/38_catedral.jpeg"
  },
  {
    "cantidad": 54,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39339024327893, -66.15738321125782",
    "coordArray": [-17.39339024327893, -66.15738321125782],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "39_drogueria.jpeg",
+   "nombreFinal": "39_drogueria.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/39_drogueria.jpeg"
  },
  {
    "cantidad": 4,
+   "encargado": "Vale",
    "lugar": "plaza principal",
    "coord": "-17.394203562010464, -66.15626828226584",
    "coordArray": [-17.394203562010464, -66.15626828226584],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "4_guerra_chaco.jpeg",
+   "nombreFinal": "4_guerra_chaco.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/4_guerra_chaco.jpeg"
  },
  {
    "cantidad": 55,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.403309340497913, -66.16019669744675",
    "coordArray": [-17.403309340497913, -66.16019669744675],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "40_plaza.jpeg",
+   "nombreFinal": "40_plaza.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/40_plaza.jpeg"
  },
  {
    "cantidad": 33,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.3883117408922, -66.15624553689304",
    "coordArray": [-17.3883117408922, -66.15624553689304],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "41_desfile.jpeg",
+   "nombreFinal": "41_desfile.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/41_desfile.jpeg"
  },
  {
    "cantidad": 34,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.403309340497913, -66.16019669744675",
    "coordArray": [-17.403309340497913, -66.16019669744675],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "42_coronilla.jpeg",
+   "nombreFinal": "42_coronilla.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/42_coronilla.jpeg"
  },
  {
    "cantidad": 35,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.393709888610246, -66.15697435665636",
    "coordArray": [-17.393709888610246, -66.15697435665636],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "43_condor.jpeg",
+   "nombreFinal": "43_condor.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/43_condor.jpeg"
  },
  {
    "cantidad": 36,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39364473452943, -66.15647366509646",
    "coordArray": [-17.39364473452943, -66.15647366509646],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "44_tranvia",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/44_tranvia"
+   "nombreFinal": "44_tranvia.jpeg",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/44_tranvia.jpeg"
  },
  {
    "cantidad": 37,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.392644298501416, -66.1544086060544",
    "coordArray": [-17.392644298501416, -66.1544086060544],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "45_sanmartin.png",
+   "nombreFinal": "45_sanmartin.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/45_sanmartin.png"
  },
  {
    "cantidad": 38,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.4151580427871, -66.17853931721602",
    "coordArray": [-17.4151580427871, -66.17853931721602],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "46_avion.jpeg",
+   "nombreFinal": "46_avion.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/46_avion.jpeg"
  },
  {
    "cantidad": 39,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39958767935458, -66.15897390065967",
    "coordArray": [-17.39958767935458, -66.15897390065967],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "47_estacion.jpeg",
+   "nombreFinal": "47_estacion.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/47_estacion.jpeg"
  },
  {
    "cantidad": 40,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.380341706148634, -66.16041934429099",
    "coordArray": [-17.380341706148634, -66.16041934429099],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "48_estadium.png",
+   "nombreFinal": "48_estadium.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/48_estadium.png"
  },
  {
    "cantidad": 41,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.40242028255843, -66.15323455977861",
    "coordArray": [-17.40242028255843, -66.15323455977861],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "49_pampa.png",
+   "nombreFinal": "49_pampa.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/49_pampa.png"
  },
  {
    "cantidad": 5,
+   "encargado": "Vale",
    "lugar": "cala cala",
    "coord": "-17.368731862564566, -66.16375547784313",
    "coordArray": [-17.368731862564566, -66.16375547784313],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "5_tranvia_calacala.jpeg",
+   "nombreFinal": "5_tranvia_calacala.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/5_tranvia_calacala.jpeg"
  },
  {
    "cantidad": 42,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.378602393688265, -66.16396603667268",
    "coordArray": [-17.378602393688265, -66.16396603667268],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "50_hacienda.png",
+   "nombreFinal": "50_hacienda.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/50_hacienda.png"
  },
  {
    "cantidad": 43,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.399058912445977, -66.1598320452377",
    "coordArray": [-17.399058912445977, -66.1598320452377],
    "anio": null,
    "periodo": "1825-1899",
-   "archivo": "51_sebastian.png",
+   "nombreFinal": "51_sebastian.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/51_sebastian.png"
  },
  {
    "cantidad": 44,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.40281611765948, -66.15571488869072",
    "coordArray": [-17.40281611765948, -66.15571488869072],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "52_mercado.jpeg",
+   "nombreFinal": "52_mercado.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/52_mercado.jpeg"
  },
  {
    "cantidad": 45,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.38521117055523, -66.15742607277124",
    "coordArray": [-17.38521117055523, -66.15742607277124],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "53_compteco.jpeg",
+   "nombreFinal": "53_compteco.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/53_compteco.jpeg"
  },
  {
    "cantidad": 46,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39370313400211, -66.15646464731638",
    "coordArray": [-17.39370313400211, -66.15646464731638],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "54_1925.jpeg",
+   "nombreFinal": "54_1925.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/54_1925.jpeg"
  },
  {
    "cantidad": 47,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39818858507723, -66.15340206309658",
    "coordArray": [-17.39818858507723, -66.15340206309658],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "55_calatayud.jpeg",
+   "nombreFinal": "55_calatayud.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/55_calatayud.jpeg"
  },
  {
    "cantidad": 48,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.402994263929696, -66.15466678259452",
    "coordArray": [-17.402994263929696, -66.15466678259452],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "56_sanantonio.jpeg",
+   "nombreFinal": "56_sanantonio.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/56_sanantonio.jpeg"
  },
  {
    "cantidad": 49,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.39964907665966, -66.15962623506005",
    "coordArray": [-17.39964907665966, -66.15962623506005],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "57_trenes.jpeg",
+   "nombreFinal": "57_trenes.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/57_trenes.jpeg"
  },
  {
    "cantidad": 50,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.395490946622196, -66.157210210467",
    "coordArray": [-17.395490946622196, -66.157210210467],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "58_nataniel.jpeg",
+   "nombreFinal": "58_nataniel.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/58_nataniel.jpeg"
  },
  {
    "cantidad": 51,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.388313593441843, -66.15576340267378",
    "coordArray": [-17.388313593441843, -66.15576340267378],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "59_jovenes.jpeg",
+   "nombreFinal": "59_jovenes.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/59_jovenes.jpeg"
  },
  {
    "cantidad": 6,
+   "encargado": "Vale",
    "lugar": "heroinas",
    "coord": "-17.39235951323807, -66.15737429058433",
    "coordArray": [-17.39235951323807, -66.15737429058433],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "6_heroinas.jpeg",
+   "nombreFinal": "6_heroinas.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/6_heroinas.jpeg"
  },
  {
    "cantidad": 52,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.374894064904666, -66.15295494228117",
    "coordArray": [-17.374894064904666, -66.15295494228117],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "60_portales.jpeg",
+   "nombreFinal": "60_portales.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/60_portales.jpeg"
  },
  {
    "cantidad": 53,
+   "encargado": "Vale",
    "lugar": "",
    "coord": "-17.374997379388063, -66.15317918272322",
    "coordArray": [-17.374997379388063, -66.15317918272322],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "61_portales.jpeg",
+   "nombreFinal": "61_portales.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/61_portales.jpeg"
  },
  {
    "cantidad": 7,
+   "encargado": "Vale",
    "lugar": "plaza colon",
    "coord": "-17.387707319708014, -66.15587325979922",
    "coordArray": [-17.387707319708014, -66.15587325979922],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "7_plazacolon.jpeg",
+   "nombreFinal": "7_plazacolon.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/7_plazacolon.jpeg"
  },
  {
    "cantidad": 8,
+   "encargado": "Vale",
    "lugar": "joyeria esmeralda",
    "coord": "-17.39397503350794, -66.15750015155119",
    "coordArray": [-17.39397503350794, -66.15750015155119],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "8_joyeriaesmeralda.png",
+   "nombreFinal": "8_joyeriaesmeralda.png",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/8_joyeriaesmeralda.png"
  },
  {
    "cantidad": 9,
+   "encargado": "Vale",
    "lugar": "iluminado calle sucre",
    "coord": "-17.39407504214794, -66.1558141007767",
    "coordArray": [-17.39407504214794, -66.1558141007767],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "9_calle_sucre.jpeg",
+   "nombreFinal": "9_calle_sucre.jpeg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/9_calle_sucre.jpeg"
  },
  {
    "cantidad": 1,
+   "encargado": "Javier",
    "lugar": "puente del tranvia (actual puente antezana)",
    "coord": "-17.380612042243772, -66.1570515209511",
    "coordArray": [-17.380612042243772, -66.1570515209511],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "A Cala Cala de paseo tranvia.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/A Cala Cala de paseo tranvia.jpg"
+   "nombreFinal": "A Cala Cala de paseo tranvia.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/A Cala Cala de paseo tranvia.png"
  },
  {
    "cantidad": 3,
+   "encargado": "Javier",
    "lugar": "alameda (actual prado)",
    "coord": "-17.383876384809216, -66.15866690882869",
    "coordArray": [-17.383876384809216, -66.15866690882869],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Alameda.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Alameda.jpg"
+   "nombreFinal": "Alameda.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Alameda.png"
  },
  {
    "cantidad": 4,
+   "encargado": "Javier",
    "lugar": "antiguo aeropuerto",
    "coord": "-17.410363707749724, -66.173211836992",
    "coordArray": [-17.410363707749724, -66.173211836992],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "antiguo aeropuerto y avion del lloyd.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/antiguo aeropuerto y avion del lloyd.jpg"
+   "nombreFinal": "antiguo aeropuerto y avion del lloyd.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/antiguo aeropuerto y avion del lloyd.png"
  },
  {
    "cantidad": 5,
+   "encargado": "Javier",
    "lugar": "arcos de la alameda (trasladados al ingreso del cementerio)",
    "coord": "-17.387707905002333, -66.1558619659582",
    "coordArray": [-17.387707905002333, -66.1558619659582],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Arcos del prado de la alameda ahora en el cementerio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Arcos del prado de la alameda ahora en el cementerio.jpg"
+   "nombreFinal": "Arcos del prado de la alameda ahora en el cementerio.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Arcos del prado de la alameda ahora en el cementerio.png"
  },
  {
    "cantidad": 6,
+   "encargado": "Javier",
    "lugar": "cala cala",
    "coord": "-17.368835373336854, -66.16378092065808",
    "coordArray": [-17.368835373336854, -66.16378092065808],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Cala Cala a principios de Siglo XX.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala a principios de Siglo XX.jpg"
+   "nombreFinal": "Cala Cala a principios de Siglo XX.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala a principios de Siglo XX.png"
  },
  {
    "cantidad": 7,
+   "encargado": "Javier",
    "lugar": "cala cala hacia la man cesped",
    "coord": "-17.368490512462607, -66.16463886975639",
    "coordArray": [-17.368490512462607, -66.16463886975639],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Cala Cala por la man cesped.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala por la man cesped.jpg"
+   "nombreFinal": "Cala Cala por la man cesped.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala por la man cesped.png"
  },
  {
    "cantidad": 8,
+   "encargado": "Javier",
    "lugar": "cala cala",
    "coord": "-17.368782458605704, -66.16394771535667",
    "coordArray": [-17.368782458605704, -66.16394771535667],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Cala Cala principios del siglo xx.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala principios del siglo xx.jpg"
+   "nombreFinal": "Cala Cala principios del siglo xx.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cala Cala principios del siglo xx.png"
  },
  {
    "cantidad": 10,
+   "encargado": "Javier",
    "lugar": "calle españa",
    "coord": "-17.390819344425935, -66.15698127505006",
    "coordArray": [-17.390819344425935, -66.15698127505006],
    "anio": 1971,
    "periodo": "1950-1980",
-   "archivo": "Calle España 1971.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Calle España 1971.jpg"
+   "nombreFinal": "Calle Espana 1971.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Calle Espana 1971.png"
  },
  {
    "cantidad": 1,
+   "encargado": "Abi",
    "lugar": "calle esteban arce y calama",
    "coord": "-17.396378, -66.155970",
    "coordArray": [-17.396378, -66.155970],
    "anio": 1930,
    "periodo": "1900-1949",
-   "archivo": "calle esteban arce y calama_1930.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/calle esteban arce y calama_1930.jpg"
+   "nombreFinal": "calle esteban arce y calama_1930.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/calle esteban arce y calama_1930.png"
  },
  {
    "cantidad": 2,
+   "encargado": "Abi",
    "lugar": "calle santivañez",
    "coord": "-17.394599, -66.158309",
    "coordArray": [-17.394599, -66.158309],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "calle santivañez.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/calle santivañez.jpg"
+   "nombreFinal": "calle santivanez.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/calle santivanez.png"
  },
  {
    "cantidad": 28,
+   "encargado": "Abi",
    "lugar": "Calle Sucre 1960",
    "coord": "-17.394105, -66.155247",
    "coordArray": [-17.394105, -66.155247],
    "anio": 1960,
    "periodo": "1950-1980",
-   "archivo": "Calle Sucre 1960.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Calle Sucre 1960.jpg"
+   "nombreFinal": "Calle Sucre 1960.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Calle Sucre 1960.png"
  },
  {
    "cantidad": 62,
+   "encargado": "Abi",
    "lugar": "calle sucre",
    "coord": "-17.39411734701626, -66.15549810922822",
    "coordArray": [-17.39411734701626, -66.15549810922822],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "calle sucre.jpg",
+   "nombreFinal": "calle sucre.jpg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/calle sucre.jpg"
  },
  {
    "cantidad": 11,
+   "encargado": "Javier",
    "lugar": "catedral",
    "coord": "-17.394314437415765, -66.15653753022347",
    "coordArray": [-17.394314437415765, -66.15653753022347],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Campanario de catedral 50s a 60s.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Campanario de catedral 50s a 60s.jpg"
+   "nombreFinal": "Campanario de catedral 50s a 60s.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Campanario de catedral 50s a 60s.png"
  },
  {
    "cantidad": 13,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.394154887742317, -66.15634599698691",
    "coordArray": [-17.394154887742317, -66.15634599698691],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "carteleras de peliculas en la plaza.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/carteleras de peliculas en la plaza.jpg"
+   "nombreFinal": "carteleras de peliculas en la plaza.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/carteleras de peliculas en la plaza.png"
  },
  {
    "cantidad": 29,
+   "encargado": "Abi",
    "lugar": "Casa Bickenback",
    "coord": "-17.368809040828413, -66.1628887198222",
    "coordArray": [-17.368809040828413, -66.1628887198222],
    "anio": null,
    "periodo": "",
-   "archivo": "Casa Bickenback.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Casa Bickenback.jpg"
+   "nombreFinal": "Casa Bickenback.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Casa Bickenback.png"
  },
  {
    "cantidad": 3,
+   "encargado": "Abi",
    "lugar": "centro_histórico",
    "coord": "-17.395355, -66.156620",
    "coordArray": [-17.395355, -66.156620],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "centro_histórico.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/centro_histórico.jpg"
+   "nombreFinal": "centro_historico.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/centro_historico.png"
  },
  {
    "cantidad": 15,
+   "encargado": "Javier",
    "lugar": "heroinas y españa",
    "coord": "-17.392140283528896, -66.15668654327821",
    "coordArray": [-17.392140283528896, -66.15668654327821],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Cine Victor_Heroinas esq España.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cine Victor_Heroinas esq España.jpg"
+   "nombreFinal": "Cine Victor_Heroinas esq Espana.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Cine Victor_Heroinas esq Espana.png"
  },
  {
    "cantidad": 63,
+   "encargado": "Abi",
    "lugar": "Ciudad",
    "coord": "-17.406176, -66.154560",
    "coordArray": [-17.406176, -66.154560],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Ciudad.jpg",
+   "nombreFinal": "Ciudad.jpg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/Ciudad.jpg"
  },
  {
    "cantidad": 4,
+   "encargado": "Abi",
    "lugar": "cochabamba en 1976 o 1977",
    "coord": "-17.392284, -66.156985",
    "coordArray": [-17.392284, -66.156985],
    "anio": 1976,
    "periodo": "1950-1980",
-   "archivo": "cochabamba en 1976 o 1977.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/cochabamba en 1976 o 1977.jpg"
+   "nombreFinal": "cochabamba en 1976 o 1977.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/cochabamba en 1976 o 1977.png"
  },
  {
    "cantidad": 16,
+   "encargado": "Javier",
    "lugar": "estadio",
    "coord": "-17.37910738167147, -66.16147446209915",
    "coordArray": [-17.37910738167147, -66.16147446209915],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Construcción del estadio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Construcción del estadio.jpg"
+   "nombreFinal": "Construccion del estadio.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Construccion del estadio.png"
  },
  {
    "cantidad": 31,
+   "encargado": "Abi",
    "lugar": "Coronación de Adela Zamudio",
    "coord": "-17.393292, -66.156933",
    "coordArray": [-17.393292, -66.156933],
    "anio": 1926,
    "periodo": "1900-1949",
-   "archivo": "Coronación de Adela Zamudio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Coronación de Adela Zamudio.jpg"
+   "nombreFinal": "Coronacion de Adela Zamudio.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Coronacion de Adela Zamudio.png"
  },
  {
    "cantidad": 17,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.394369430979534, -66.15738710008803",
    "coordArray": [-17.394369430979534, -66.15738710008803],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "De rodillas.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/De rodillas.jpg"
+   "nombreFinal": "De rodillas.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/De rodillas.png"
  },
  {
    "cantidad": 5,
+   "encargado": "Abi",
    "lugar": "ecuador y baptista",
    "coord": "-17.390263, -66.158213",
    "coordArray": [-17.390263, -66.158213],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "ecuador y baptista.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/ecuador y baptista.jpg"
+   "nombreFinal": "ecuador y baptista.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/ecuador y baptista.png"
  },
  {
    "cantidad": 32,
+   "encargado": "Abi",
    "lugar": "Edificio de los Fabriles en la Plaza Principal 1970",
    "coord": "-17.393405, -66.157523",
    "coordArray": [-17.393405, -66.157523],
    "anio": 1970,
    "periodo": "1950-1980",
-   "archivo": "Edificio de los Fabriles en la Plaza Principal 1970.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Edificio de los Fabriles en la Plaza Principal 1970.jpg"
+   "nombreFinal": "Edificio de los Fabriles en la Plaza Principal 1970..jpg",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Edificio de los Fabriles en la Plaza Principal 1970..jpg"
  },
  {
    "cantidad": 20,
+   "encargado": "Javier",
    "lugar": "el acho (actual coronilla)",
    "coord": "-17.401210020024358, -66.16137248911859",
    "coordArray": [-17.401210020024358, -66.16137248911859],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "EL acho en la coronilla.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/EL acho en la coronilla.jpg"
+   "nombreFinal": "EL acho en la coronilla.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/EL acho en la coronilla.png"
  },
  {
    "cantidad": 8,
+   "encargado": "Abi",
    "lugar": "El acho",
    "coord": "-17.401224, -66.161439",
    "coordArray": [-17.401224, -66.161439],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "El acho_1900.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/El acho_1900.jpg"
+   "nombreFinal": "El acho_1900.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/El acho_1900.png"
  },
  {
    "cantidad": 21,
+   "encargado": "Javier",
    "lugar": "prado",
    "coord": "-17.385614567008286, -66.15748728371578",
    "coordArray": [-17.385614567008286, -66.15748728371578],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "El Prado.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/El Prado.jpg"
+   "nombreFinal": "El Prado.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/El Prado.png"
  },
  {
    "cantidad": 22,
+   "encargado": "Javier",
    "lugar": "estación",
    "coord": "-17.403346605288377, -66.15391388770132",
    "coordArray": [-17.403346605288377, -66.15391388770132],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Estación de tren.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estación de tren.jpg"
+   "nombreFinal": "Estacion de tren.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estacion de tren.png"
  },
  {
    "cantidad": 23,
+   "encargado": "Javier",
    "lugar": "estación",
    "coord": "-17.40332868912654, -66.15368120598596",
    "coordArray": [-17.40332868912654, -66.15368120598596],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Estacion de trenes.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estacion de trenes.jpg"
+   "nombreFinal": "Estacion de trenes.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estacion de trenes.png"
  },
  {
    "cantidad": 33,
+   "encargado": "Abi",
    "lugar": "Estación de trenes2",
    "coord": "-17.403318, -66.153924",
    "coordArray": [-17.403318, -66.153924],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Estación de trenes2.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estación de trenes2.jpg"
+   "nombreFinal": "Estacion de trenes2.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Estacion de trenes2.png"
  },
  {
    "cantidad": 65,
+   "encargado": "Abi",
    "lugar": "estadium felix capriles",
    "coord": "-17.38009622457081, -66.16062882322039",
    "coordArray": [-17.38009622457081, -66.16062882322039],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "estadium felix capriles.jpg",
+   "nombreFinal": "estadium felix capriles.jpg",
    "imgUrl": "https://labtecnosocial.org/cocha-antigua/estadium felix capriles.jpg"
  },
  {
    "cantidad": 24,
+   "encargado": "Javier",
    "lugar": "esteban arce",
    "coord": "-17.395553546897887, -66.15608224668773",
    "coordArray": [-17.395553546897887, -66.15608224668773],
    "anio": 1910,
    "periodo": "1900-1949",
-   "archivo": "Esteban Arce e n 1910.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Esteban Arce e n 1910.jpg"
+   "nombreFinal": "Esteban Arce e n 1910.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Esteban Arce e n 1910.png"
  },
  {
    "cantidad": 25,
+   "encargado": "Javier",
    "lugar": "hotel cochabamba",
    "coord": "-17.377680549514245, -66.15229403039739",
    "coordArray": [-17.377680549514245, -66.15229403039739],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Gran hotel cochabamba.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Gran hotel cochabamba.jpg"
+   "nombreFinal": "Gran hotel cochabamba.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Gran hotel cochabamba.png"
  },
  {
    "cantidad": 34,
+   "encargado": "Abi",
    "lugar": "Hotel Bolivar Av. San Martin y Bolivar 1956 (Edif. Juan Abujder)",
    "coord": "-17.392829, -66.154384",
    "coordArray": [-17.392829, -66.154384],
    "anio": 1956,
    "periodo": "1950-1980",
-   "archivo": "Hotel Bolivar Av. San Martin y Bolivar 1956 (Edif. Juan Abujder).jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Hotel Bolivar Av. San Martin y Bolivar 1956 (Edif. Juan Abujder).jpg"
+   "nombreFinal": "Hotel Bolivar Av San Martin y Bolivar 1956 (Edif Juan Abujder).png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Hotel Bolivar Av San Martin y Bolivar 1956 (Edif Juan Abujder).png"
  },
  {
    "cantidad": 26,
+   "encargado": "Javier",
    "lugar": "hotel colon (acera norte plaza colon)",
    "coord": "-17.387471953174003, -66.15541042297912",
    "coordArray": [-17.387471953174003, -66.15541042297912],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Hotel Colon.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Hotel Colon.jpg"
+   "nombreFinal": "Hotel Colon.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Hotel Colon.png"
  },
  {
    "cantidad": 27,
+   "encargado": "Javier",
    "lugar": "iglesia de la merced (actual comteco en calle sucre)",
    "coord": "-17.394193686660927, -66.15559158513454",
    "coordArray": [-17.394193686660927, -66.15559158513454],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Iglesia de la Merced en calle Sucre ahora Comteco.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Iglesia de la Merced en calle Sucre ahora Comteco.jpg"
+   "nombreFinal": "Iglesia de la Merced en calle Sucre ahora Comteco.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Iglesia de la Merced en calle Sucre ahora Comteco.png"
  },
  {
    "cantidad": 28,
+   "encargado": "Javier",
    "lugar": "iglesia de santo domingo",
    "coord": "-17.394759523692866, -66.15886901272107",
    "coordArray": [-17.394759523692866, -66.15886901272107],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Iglesia de santodomingo.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Iglesia de santodomingo.jpg"
+   "nombreFinal": "Iglesia de santodomingo.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Iglesia de santodomingo.png"
  },
  {
    "cantidad": 6,
+   "encargado": "Abi",
    "lugar": "jardines del palacio portales",
    "coord": "-17.374771, -66.153232",
    "coordArray": [-17.374771, -66.153232],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "jardines del palacio portales",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/jardines del palacio portales"
+   "nombreFinal": "jardines del palacio portales.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/jardines del palacio portales.png"
  },
  {
    "cantidad": 7,
+   "encargado": "Abi",
    "lugar": "junin entre colombia y ecuador_finales de 70s",
    "coord": "-17.390825, -66.160303",
    "coordArray": [-17.390825, -66.160303],
    "anio": 1970,
    "periodo": "1950-1980",
-   "archivo": "junin entre colombia y ecuador_finales de 70s,jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/junin entre colombia y ecuador_finales de 70s,jpg"
+   "nombreFinal": "junin entre colombia y ecuador_finales de 70s.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/junin entre colombia y ecuador_finales de 70s.png"
  },
  {
    "cantidad": 29,
+   "encargado": "Javier",
    "lugar": "alameda (actual prado)",
    "coord": "-17.386400365355456, -66.15679095316179",
    "coordArray": [-17.386400365355456, -66.15679095316179],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "La alameda.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La alameda.jpg"
+   "nombreFinal": "La alameda.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La alameda.png"
  },
  {
    "cantidad": 30,
+   "encargado": "Javier",
    "lugar": "heroínas",
    "coord": "-17.392581417073952, -66.15870619864796",
    "coordArray": [-17.392581417073952, -66.15870619864796],
    "anio": 1978,
    "periodo": "1950-1980",
-   "archivo": "La av Heroinas en 1978.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La av Heroinas en 1978.jpg"
+   "nombreFinal": "La av Heroinas en 1978.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La av Heroinas en 1978.png"
  },
  {
    "cantidad": 31,
+   "encargado": "Javier",
    "lugar": "blanco galindo",
    "coord": "-17.393772782799665, -66.17333626310732",
    "coordArray": [-17.393772782799665, -66.17333626310732],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "La Blanco Galindo con _autos _quiñienteros_.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La Blanco Galindo con _autos _quiñienteros_.jpg"
+   "nombreFinal": "La Blanco Galindo con _autos _quinienteros_.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La Blanco Galindo con _autos _quinienteros_.png"
  },
  {
    "cantidad": 32,
+   "encargado": "Javier",
    "lugar": "cancha",
    "coord": "-17.400751990227924, -66.15332130121784",
    "coordArray": [-17.400751990227924, -66.15332130121784],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "La cancha.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La cancha.jpg"
+   "nombreFinal": "La cancha.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La cancha.png"
  },
  {
    "cantidad": 66,
+   "encargado": "Abi",
    "lugar": "la pampa",
    "coord": "-17.402801316402936, -66.15286766133252",
    "coordArray": [-17.402801316402936, -66.15286766133252],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "la pampa.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/la pampa.jpg"
+   "nombreFinal": "la pampa.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/la pampa.png"
  },
  {
    "cantidad": 9,
+   "encargado": "Abi",
    "lugar": "la paz y el prado",
    "coord": "-17.384864, -66.157733",
    "coordArray": [-17.384864, -66.157733],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "la paz y el prado.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/la paz y el prado.jpg"
+   "nombreFinal": "la paz y el prado.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/la paz y el prado.png"
  },
  {
    "cantidad": 33,
+   "encargado": "Javier",
    "lugar": "san martin",
    "coord": "-17.397196903881373, -66.15349473215763",
    "coordArray": [-17.397196903881373, -66.15349473215763],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "La san martin.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La san martin.jpg"
+   "nombreFinal": "La san martin.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La san martin.png"
  },
  {
    "cantidad": 34,
+   "encargado": "Javier",
    "lugar": "universidad san simon",
    "coord": "-17.39464628502946, -66.14684251727543",
    "coordArray": [-17.39464628502946, -66.14684251727543],
    "anio": 1971,
    "periodo": "1950-1980",
-   "archivo": "La sansi en 1971.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La sansi en 1971.jpg"
+   "nombreFinal": "La sansi en 1971.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/La sansi en 1971.png"
  },
  {
    "cantidad": 35,
+   "encargado": "Javier",
    "lugar": "laguna alalay",
    "coord": "-17.40456292981604, -66.14577725251249",
    "coordArray": [-17.40456292981604, -66.14577725251249],
    "anio": 1917,
    "periodo": "1900-1949",
-   "archivo": "Laguna alalay y automovil.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Laguna alalay y automovil.jpg"
+   "nombreFinal": "Laguna alalay y automovil.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Laguna alalay y automovil.png"
  },
  {
    "cantidad": 10,
+   "encargado": "Abi",
    "lugar": "laguna cuellar_1930",
    "coord": "-17.378533, -66.162576",
    "coordArray": [-17.378533, -66.162576],
    "anio": 1930,
    "periodo": "1900-1949",
-   "archivo": "laguna cuellar_1930.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/laguna cuellar_1930.jpg"
+   "nombreFinal": "laguna cuellar_1930.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/laguna cuellar_1930.png"
  },
  {
    "cantidad": 11,
+   "encargado": "Abi",
    "lugar": "mercado fidel aranibar_punata y san martin_1971",
    "coord": "-17.402415, -66.153405",
    "coordArray": [-17.402415, -66.153405],
    "anio": 1971,
    "periodo": "1950-1980",
-   "archivo": "mercado fidel aranibar_punata y san martin_197.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/mercado fidel aranibar_punata y san martin_197.jpg"
+   "nombreFinal": "mercado fidel aranibar_punata y san martin_1971.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/mercado fidel aranibar_punata y san martin_1971.png"
  },
  {
    "cantidad": 12,
+   "encargado": "Abi",
    "lugar": "parque la torre y aurelio melean",
    "coord": "-17.391374, -66.145284",
    "coordArray": [-17.391374, -66.145284],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "parque la torre y aurelio melean.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/parque la torre y aurelio melean.jpg"
+   "nombreFinal": "parque la torre y aurelio melean.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/parque la torre y aurelio melean.png"
  },
  {
    "cantidad": 35,
+   "encargado": "Abi",
    "lugar": "Personas 1940-1950",
    "coord": "-17.393530, -66.157581",
    "coordArray": [-17.393530, -66.157581],
    "anio": 1940,
    "periodo": "1900-1949",
-   "archivo": "Personas 1940-1950.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Personas 1940-1950.jpg"
+   "nombreFinal": "Personas 1940-1950.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Personas 1940-1950.png"
  },
  {
    "cantidad": 39,
+   "encargado": "Javier",
    "lugar": "plaza de las banderas",
    "coord": "-17.38206347482662, -66.1597536297297",
    "coordArray": [-17.38206347482662, -66.1597536297297],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza de las banderas 1.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza de las banderas 1.jpg"
+   "nombreFinal": "plaza de las banderas 1.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza de las banderas 1.png"
  },
  {
    "cantidad": 14,
+   "encargado": "Abi",
    "lugar": "plaza de las banderas",
    "coord": "-17.382356, -66.159832",
    "coordArray": [-17.382356, -66.159832],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza de las banderas 2.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza de las banderas 2.jpg"
+   "nombreFinal": "plaza de las banderas 2.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza de las banderas 2.png"
  },
  {
    "cantidad": 40,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.39407215700069, -66.15692936646101",
    "coordArray": [-17.39407215700069, -66.15692936646101],
    "anio": null,
    "periodo": "1825-1899",
-   "archivo": "Plaza foto mas antigua 1870 a 1880.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza foto mas antigua 1870 a 1880.jpg"
+   "nombreFinal": "Plaza foto mas antigua 1870 a 1880.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza foto mas antigua 1870 a 1880.png"
  },
  {
    "cantidad": 41,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.39368950311989, -66.15697764622628",
    "coordArray": [-17.39368950311989, -66.15697764622628],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "plaza principal.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal.jpg"
+   "nombreFinal": "plaza principal.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal.png"
  },
  {
    "cantidad": 36,
+   "encargado": "Abi",
    "lugar": "plaza principal3",
    "coord": "-17.393243, -66.156653",
    "coordArray": [-17.393243, -66.156653],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza principal3.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal3.jpg"
+   "nombreFinal": "plaza principal3.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal3.png"
  },
  {
    "cantidad": 69,
+   "encargado": "Abi",
    "lugar": "plaza principal6",
    "coord": "-17.3933451802921, -66.15696033485764",
    "coordArray": [-17.3933451802921, -66.15696033485764],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza principal6.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal6.jpg"
+   "nombreFinal": "plaza principal6.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principal6.png"
  },
  {
    "cantidad": 42,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.393508820925312, -66.1571233567269",
    "coordArray": [-17.393508820925312, -66.1571233567269],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "plaza principios siglo XX.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principios siglo XX.jpg"
+   "nombreFinal": "plaza principios siglo XX.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza principios siglo XX.png"
  },
  {
    "cantidad": 44,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.39339782222131, -66.15735461147396",
    "coordArray": [-17.39339782222131, -66.15735461147396],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Plaza Rodolfo Torrico Zamudio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza Rodolfo Torrico Zamudio.jpg"
+   "nombreFinal": "Plaza prinicpal con monumento kiosco y catedral.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza prinicpal con monumento kiosco y catedral.png"
  },
  {
    "cantidad": 80,
+   "encargado": "Abi",
    "lugar": "Plaza San Antonio 1970",
    "coord": "-17.402577342959567, -66.1561885884542",
    "coordArray": [-17.402577342959567, -66.1561885884542],
    "anio": 1970,
    "periodo": "1950-1980",
-   "archivo": "Plaza San Antonio 1970.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza San Antonio 1970.jpg"
+   "nombreFinal": "Plaza San Antonio 1970.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza San Antonio 1970.png"
  },
  {
    "cantidad": 15,
+   "encargado": "Abi",
    "lugar": "plaza san antonio_vista desde la coronilla",
    "coord": "-17.402677, -66.155918",
    "coordArray": [-17.402677, -66.155918],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza san antonio_vista desde la coronilla.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza san antonio_vista desde la coronilla.jpg"
+   "nombreFinal": "plaza san antonio_vista desde la coronilla.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza san antonio_vista desde la coronilla.png"
  },
  {
    "cantidad": 16,
+   "encargado": "Abi",
    "lugar": "plaza san sebastian_1900",
    "coord": "-17.398817, -66.159759",
    "coordArray": [-17.398817, -66.159759],
    "anio": 1900,
    "periodo": "1900-1949",
-   "archivo": "plaza san sebastian_1900.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza san sebastian_1900.jpg"
+   "nombreFinal": "plaza san sebastian_1900.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza san sebastian_1900.png"
  },
  {
    "cantidad": 45,
+   "encargado": "Javier",
    "lugar": "plaza principal, tranvia",
    "coord": "-17.393418333258857, -66.1565642476779",
    "coordArray": [-17.393418333258857, -66.1565642476779],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Plaza y asientos y tranvia.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza y asientos y tranvia.jpg"
+   "nombreFinal": "Plaza y asientos y tranvia.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza y asientos y tranvia.png"
  },
  {
    "cantidad": 46,
+   "encargado": "Javier",
    "lugar": "plaza principal, catedral",
    "coord": "-17.394113021158535, -66.15652909045286",
    "coordArray": [-17.394113021158535, -66.15652909045286],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "plaza y catedral.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza y catedral.jpg"
+   "nombreFinal": "plaza y catedral.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza y catedral.png"
  },
  {
    "cantidad": 47,
+   "encargado": "Javier",
    "lugar": "plaza principal, tranvia",
    "coord": "-17.39437759259031, -66.15742657000854",
    "coordArray": [-17.39437759259031, -66.15742657000854],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Plaza y colectivo.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza y colectivo.jpg"
+   "nombreFinal": "Plaza y colectivo.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Plaza y colectivo.png"
  },
  {
    "cantidad": 17,
+   "encargado": "Abi",
    "lugar": "plaza_1915",
    "coord": "-17.393247, -66.156653",
    "coordArray": [-17.393247, -66.156653],
    "anio": 1915,
    "periodo": "1900-1949",
-   "archivo": "plaza_1915.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_1915.jpg"
+   "nombreFinal": "plaza_1915.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_1915.png"
  },
  {
    "cantidad": 19,
+   "encargado": "Abi",
    "lugar": "plaza_gerónimo de osorio",
    "coord": "-17.397393, -66.162705",
    "coordArray": [-17.397393, -66.162705],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza_gerónimo de osorio.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_gerónimo de osorio.jpg"
+   "nombreFinal": "plaza_geronimo de osorio.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_geronimo de osorio.png"
  },
  {
    "cantidad": 20,
+   "encargado": "Abi",
    "lugar": "plaza_iluminada en centenario 1925",
    "coord": "-17.393449, -66.156893",
    "coordArray": [-17.393449, -66.156893],
    "anio": 1925,
    "periodo": "1825-1899",
-   "archivo": "plaza_iluminada en centenario 1925.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_iluminada en centenario 1925.jpg"
+   "nombreFinal": "plaza_iluminada en centenario 1925.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_iluminada en centenario 1925.png"
  },
  {
    "cantidad": 21,
+   "encargado": "Abi",
    "lugar": "plaza_marchando",
    "coord": "-17.394329, -66.157244",
    "coordArray": [-17.394329, -66.157244],
    "anio": null,
    "periodo": "",
-   "archivo": "plaza_marchando.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_marchando.jpg"
+   "nombreFinal": "plaza_marchando.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_marchando.png"
  },
  {
    "cantidad": 22,
+   "encargado": "Abi",
    "lugar": "plaza_mujeres",
    "coord": "-17.393566, -66.156496",
    "coordArray": [-17.393566, -66.156496],
    "anio": null,
    "periodo": "1825-1899",
-   "archivo": "plaza_mujeres.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_mujeres.jpg"
+   "nombreFinal": "plaza_mujeres.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_mujeres.png"
  },
  {
    "cantidad": 23,
+   "encargado": "Abi",
    "lugar": "plaza_tapando rieles",
    "coord": "-17.394057, -66.157462",
    "coordArray": [-17.394057, -66.157462],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plaza_tapando rieles.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_tapando rieles.jpg"
+   "nombreFinal": "plaza_tapando rieles.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plaza_tapando rieles.png"
  },
  {
    "cantidad": 37,
+   "encargado": "Abi",
    "lugar": "plazaprincipal",
    "coord": "-17.394335, -66.157227",
    "coordArray": [-17.394335, -66.157227],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "plazaprincipal.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal.jpg"
+   "nombreFinal": "plazaprincipal.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal.png"
  },
  {
    "cantidad": 38,
+   "encargado": "Abi",
    "lugar": "plazaprincipal2",
    "coord": "-17.394340, -66.157230",
    "coordArray": [-17.394340, -66.157230],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plazaprincipal2.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal2.jpg"
+   "nombreFinal": "plazaprincipal2.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal2.png"
  },
  {
    "cantidad": 39,
+   "encargado": "Abi",
    "lugar": "plazaprincipal5",
    "coord": "-17.393913, -66.156433",
    "coordArray": [-17.393913, -66.156433],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "plazaprincipal5.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal5.jpg"
+   "nombreFinal": "plazaprincipal5.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazaprincipal5.png"
  },
  {
    "cantidad": 24,
+   "encargado": "Abi",
    "lugar": "plazuela sucre",
    "coord": "-17.392603, -66.148353",
    "coordArray": [-17.392603, -66.148353],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "plazuela sucre.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazuela sucre.jpg"
+   "nombreFinal": "plazuela sucre.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/plazuela sucre.png"
  },
  {
    "cantidad": 52,
+   "encargado": "Javier",
    "lugar": "puente recoleta",
    "coord": "-17.37945805032492, -66.15210263145799",
    "coordArray": [-17.37945805032492, -66.15210263145799],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "puente recoleta.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/puente recoleta.jpg"
+   "nombreFinal": "puente recoleta.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/puente recoleta.png"
  },
  {
    "cantidad": 25,
+   "encargado": "Abi",
    "lugar": "punata y san martin",
    "coord": "-17.402389, -66.153378",
    "coordArray": [-17.402389, -66.153378],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "punata y san martin.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/punata y san martin.jpg"
+   "nombreFinal": "punata y san martin.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/punata y san martin.png"
  },
  {
    "cantidad": 54,
+   "encargado": "Javier",
    "lugar": "plaza principal",
    "coord": "-17.3936395269556, -66.1570457742454",
    "coordArray": [-17.3936395269556, -66.1570457742454],
    "anio": 1925,
    "periodo": "1900-1949",
-   "archivo": "Retreta en plaza 1925.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Retreta en plaza 1925.jpg"
+   "nombreFinal": "Retreta en plaza 1925.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Retreta en plaza 1925.png"
  },
  {
    "cantidad": 40,
+   "encargado": "Abi",
    "lugar": "Sucre y Esteban Arce",
    "coord": "-17.394225, -66.156361",
    "coordArray": [-17.394225, -66.156361],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "Sucre y Esteban Arce.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Sucre y Esteban Arce.jpg"
+   "nombreFinal": "Sucre y Esteban Arce.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Sucre y Esteban Arce.png"
  },
  {
    "cantidad": 57,
+   "encargado": "Javier",
    "lugar": "españa",
    "coord": "-17.39261639409389, -66.15663114317897",
    "coordArray": [-17.39261639409389, -66.15663114317897],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Tranvía Calle españa.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvía Calle españa.jpg"
+   "nombreFinal": "Tranvia Calle espana.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvia Calle espana.png"
  },
  {
    "cantidad": 60,
+   "encargado": "Javier",
    "lugar": "plaza principal, catedral",
    "coord": "-17.394267407696194, -66.15689403570592",
    "coordArray": [-17.394267407696194, -66.15689403570592],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Tranvia y catedral.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvia y catedral.jpg"
+   "nombreFinal": "Tranvia y catedral.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvia y catedral.png"
  },
  {
    "cantidad": 61,
+   "encargado": "Javier",
    "lugar": "plaza principal, compañia de jesus",
    "coord": "-17.393400957232902, -66.15762276233906",
    "coordArray": [-17.393400957232902, -66.15762276233906],
    "anio": null,
    "periodo": "1900-1949",
-   "archivo": "Tranvía y compañia de jesus.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvía y compañia de jesus.jpg"
+   "nombreFinal": "Tranvia y compania de jesus.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/Tranvia y compania de jesus.png"
  },
  {
    "cantidad": 27,
+   "encargado": "Abi",
    "lugar": "zoologico_actual parque vial",
    "coord": "-17.381143, -66.156192",
    "coordArray": [-17.381143, -66.156192],
    "anio": null,
    "periodo": "1950-1980",
-   "archivo": "zoologico_actual parque vial.jpg",
-   "imgUrl": "https://labtecnosocial.org/cocha-antigua/zoologico_actual parque vial.jpg"
+   "nombreFinal": "zoologico_actual parque vial.png",
+   "imgUrl": "https://labtecnosocial.org/cocha-antigua/zoologico_actual parque vial.png"
  }
 ]

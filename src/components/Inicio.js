@@ -18,7 +18,7 @@ export default function Inicio() {
       <AppBar position="relative" sx={{alignItems: 'center'}} >
         <Toolbar>
           <Typography variant="h6" color="inherit" noWrap>
-            La Cocha de Antaño
+            <b>La Cocha de Antes</b>
           </Typography>
         </Toolbar>
       </AppBar>
