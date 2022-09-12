@@ -4,7 +4,6 @@ import MiMarker from './MiMarker'
 import MarkerClusterGroup from 'react-leaflet-cluster'
 
 
-
 export default function Mapa() {
 
     return (
