@@ -1,10 +1,10 @@
-// make a componenent marker with a custom icon and popup with img and lighbtox
-
 import { Marker, Popup } from 'react-leaflet'
 import { Icon } from 'leaflet'
 import { useState } from 'react';
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+import Captions from "yet-another-react-lightbox/plugins/captions";
+import "yet-another-react-lightbox/plugins/captions.css";
 
 
 const icon = new Icon({
@@ -21,13 +21,19 @@ export default function MiMarker({ item }) {
     return (
         <Marker position={item.coordArray} icon={icon}>
             <Popup>
-                <img src={item.imgUrl} width="300px" alt={item.lugar}onClick={() => setOpen(true)} />
-                <h3></h3>
+                <img src={item.imgThumbUrl} width="300px" alt={item.lugar}onClick={() => setOpen(true)} />
                 <p>{item.anio}</p>
                     <Lightbox
+                        styles={{ container: { backgroundColor: "rgba(0, 0, 0, .8)" } }}
                         open={open}
                         close={() => setOpen(false)}
-                        slides={[{src: item.imgUrl}]}
+                        
+                        slides={[
+                            {src: item.imgColUrl, description: 'Colorizado con IA'},
+                            {src: item.imgBwUrl, description: 'Original'},
+                        ]}
+                        plugins={[Captions]}
+                        captions = {{descriptionTextAlign: 'center'}}
                     />
 
             </Popup>
