@@ -1,4 +1,4 @@
-import { MapContainer, TileLayer, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, AttributionControl } from 'react-leaflet'
 import data from '../data/cocha-antigua.json'
 import MiMarker from './MiMarker'
 import MarkerClusterGroup from 'react-leaflet-cluster'
@@ -11,7 +11,7 @@ export default function Mapa() {
         maxZoom={15}
         >
             <TileLayer
-                attribution='<a href="https://labtecnosocial.org/">Lab TecnoSocial</a>'
+                attribution='Desarrollado por el <a href="https://labtecnosocial.org/">Lab TecnoSocial</a>'
                 url="https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}{r}.png"
             />
              <MarkerClusterGroup
@@ -25,6 +25,8 @@ export default function Mapa() {
                 <MiMarker key={index} item={item} />
             ))}
             </MarkerClusterGroup>
+            <AttributionControl position="bottomleft" prefix={false} className="atribucion" />
+
         </MapContainer>
     )
 }

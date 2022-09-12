@@ -22,6 +22,7 @@ export default function MiMarker({ item }) {
         <Marker position={item.coordArray} icon={icon}>
             <Popup>
                 <img src={item.imgThumbUrl} width="300px" alt={item.lugar}onClick={() => setOpen(true)} />
+                <p>Clic en la imagen para agrandar</p>
                 <p>{item.anio}</p>
                     <Lightbox
                         styles={{ container: { backgroundColor: "rgba(0, 0, 0, .8)" } }}
